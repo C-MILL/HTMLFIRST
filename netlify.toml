@@ -1,0 +1,4 @@
+[build]
+base = "FirstSite/"
+publish = "FirstSite/build/"
+command = "yarn build"
